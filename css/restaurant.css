@@ -1,0 +1,269 @@
+body {
+    background-color: #DADECF;
+}
+
+.body_content {
+    width: 98%;
+    margin: auto;
+    margin-top: 4vh;
+    background-color: #FFFFFF;
+}
+
+header {
+    /* background: #FFFFFF; */
+}
+
+.navbar-brand {
+    width: 100px;
+    /* color: #e49d34; */
+}
+
+.nav-link {
+    color: #5F6974;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 24px;
+}
+
+.welcome {
+    background-image: url(../images/restaurant/testi-bg.png);
+    max-height: 60vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    opacity: 75%;
+    margin: 20px 0 0 0;
+}
+
+.welcome h1 {
+    margin-top: 16vh;
+    font-family: Poppins;
+    color: #ff0000;
+}
+
+.btn-explore {
+    background: #0cad65;
+    border-radius: 33px;
+    /* color: #ddecfc; */
+    margin-top: 18vh;
+    /* font-family: Poppins; */
+    color: #e61414;
+}
+
+.btn-explore:hover {
+    background: #115033;
+    /* font-family: Poppins; */
+    color: #ffffff;
+}
+
+.feature {
+    min-height: 100vh;
+    margin-top: 15vh;
+}
+
+.fc_image {
+    height: 95%;
+    overflow: hidden;
+    object-fit: cover;
+    border-radius: 8px;
+}
+
+.feature_content {
+    height: 95%;
+    font-family: Poppins;
+    color: #5F6974;
+}
+
+.feature_content a {
+    list-style: none;
+    text-decoration: none;
+}
+
+.feature_content a img {
+    border-radius: 8px;
+    height: 150px;
+    width: 150px;
+}
+
+.feature_content a h6 {
+    font-family: Poppins;
+    color: #5F6974;
+    font-size: 14px;
+    text-align: left;
+}
+
+
+/* .btn-video {
+    background: #21B573;
+    border-radius: 33px;
+    color: #ddecfc;
+}
+
+.btn-video:hover {
+    background: #115033;
+    color: #ffffff;
+} */
+
+.banner {
+    height: 70vh;
+    width: auto;
+}
+
+.dishes {
+    background: #F7F8F9;
+    font-family: Poppins;
+    color: #5F6974;
+}
+
+.dishes h1 {
+    font-size: 50px;
+    font-weight: bolder;
+    border-bottom: 2px solid;
+}
+
+.dishes_image {
+    height: 95%;
+    overflow: hidden;
+    object-fit: cover;
+    border-radius: 8px;
+}
+
+
+}
+.special-number {
+    border-bottom: 1px solid;
+}
+.btn-book {
+    font-family: Poppins;
+    background: #efcc74;
+    border-radius: 33px;
+    margin-left: 50px;
+    font-size: 22px;
+    color: #5f250b;
+    font-weight: 500;
+}
+.btn-book:hover {
+    font-family: Poppins;
+    background: #115033;
+    color: #ffffff;
+}
+.dishes_image {
+    height: 80vh;
+    width: 80%;
+    border-radius: 25px;
+    outline-style: inset;
+}
+.menu {
+    font-family: Poppins;
+    background-color: #a9a8ab7d;
+    color: #5f250b;
+    padding-top: 40px;
+    padding-bottom: 70px;
+}
+.menu h1 {
+    font-size: 50px;
+    font-weight: bolder;
+    border-bottom: 2px solid;
+    margin-bottom: 26px;
+}
+.menu h2 {
+    font-size: 30px;
+    border-bottom: 2px dotted #5f250b;
+}
+.customer {
+    background-image: url(../images/restaurant/reservation_bg.png);
+    min-height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    font-family: Poppins;
+    opacity: 75%;
+    color: #c8d09a;
+}
+.team {
+    font-family: Poppins;
+    color: #5F6974;
+}
+.team-desc {
+    margin-top: 6px;
+    padding-right: 52px;
+    font-size: 15px;
+}
+.team ul li a i {
+    font-family: Poppins;
+    color: #5F6974;
+}
+.team ul li a i:hover {
+    font-family: Poppins;
+    color: #0426e7;
+}
+footer {}
+.footer_content {
+    height: 30vh;
+    background-image: url(../images/restaurant/testi-bg.png);
+    min-height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    font-family: Poppins;
+    color: #3F7ED5;
+    opacity: 70%;
+    /* margin-bottom: 36px; */
+}
+.footer-widget {}
+.footer-widget p {
+    font-family: Poppins;
+    color: #fff;
+}
+.footer-widget a {
+    text-decoration: none;
+}
+.footer-widget a i {
+    font-family: Poppins;
+    color: #fff;
+}
+.footer-widget h4 {
+    font-family: Poppins;
+    font-size: 35px;
+    color: #f009;
+}
+.footer-widget ul {}
+.footer-widget ul li {}
+.footer-widget ul li span {
+    font-family: Poppins;
+    color: #000;
+    border: 0px solid;
+    background-color: #07ffff66;
+}
+.footer_logo {
+    height: 100px;
+    margin: auto;
+    /* color: #fff; */
+}
+.footer_logo img {
+    height: 85px;
+    margin: auto;
+    background: #e5ba414a;
+    color: #c91e1e;
+}
+.copyright {
+    font-family: Poppins;
+    font-size: 10px;
+    color: #b90202;
+    padding-top: 30px;
+    padding-bottom: 2px;
+}
+.copyright h5 {
+    font-family: Poppins;
+    font-size: 10px;
+    color: #b90202;
+}
+.copyright a {
+    font-family: Poppins;
+    font-size: 13px;
+    color: #006aed;
+    list-style: none;
+    text-decoration: none;
+}
